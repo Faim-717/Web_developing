@@ -1,0 +1,113 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+  }
+  .blue_color{
+    color: rgb(253, 173, 0);
+  }
+  .gray_color{
+    color: rgb(100, 100, 100);
+  }
+  .white_color{
+    color: azure;
+  }
+  h1{
+    font-size: 50px;
+  }
+  #paddi{
+    padding-left: 5%;
+  }
+  .display_set{
+    display:flex;
+    margin-bottom: 100px;
+  }
+  .padding_top_left{
+    width: 50%;
+    padding-top: 15%;
+    padding-left:7%;
+  }
+  .padding_top_right{
+    padding-top: 7%;
+    padding-right: 3%;
+  }
+  .padding_top_right img{
+    width: 100%;
+  }
+  .button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(70, 2, 255),rgb(102, 52, 158));
+    color: antiquewhite;
+    padding: 18px 40px;
+    border-radius: 30px;
+  }
+  .padding_top_left2{
+    padding-top: 7%;
+    padding-left: 15%;
+  }
+  .padding_top_left2 img{
+    width: 80%;
+  }
+  .padding_top_right2{
+    padding-top: 15%;
+    padding-left: 5%;
+    padding-right: 7%;
+  }
+  .background{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .background2{
+    background-image: url(images/food//Project\ Cover4.png);
+    background-repeat: no-repeat;
+  }
+  .cntr{
+    text-align: center;
+  }
+  .image{
+    width: 100%;
+  }
+  .menu_box{
+    text-decoration: none;
+    border: 0 solid;
+    width: 23%;
+    margin-left: 5%;
+    padding:2% 2% 1% 2%;
+    box-shadow:10px 10px 40px rgb(180, 179, 179);
+    border-radius: 20px;
+  }
+  .order_box{
+    text-decoration: none;
+    border: 0 solid;
+    width: 70%;
+    margin-left: 18%;
+    margin-right: 5%;
+    padding:0;
+    border-radius: 20px;
+  }
+  .order_box img{
+    width:100%;
+    border-radius: 20px;
+  }
+  .media_box{
+    text-decoration: none;
+    border: 0 solid;
+    width: 72%;
+    margin-left: 12%;
+    padding:0 2% 1% 2%;
+    box-shadow:10px 10px 40px rgb(180, 179, 179);
+    border-radius: 15px;
+  }
+  .text_decor{
+    text-align: center;
+    padding-left: 27%;
+  }
+  .font_works{
+    font-weight: 1000;
+  }
+  footer{
+    background-color: rgb(15, 13, 24);
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 90px;
+  }
